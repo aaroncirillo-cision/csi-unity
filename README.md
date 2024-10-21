@@ -15,7 +15,7 @@
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/dell/csi-unity?style=flat-square)](https://goreportcard.com/report/github.com/dell/csi-unity)
 [![License](https://img.shields.io/github/license/dell/csi-unity?style=flat-square&color=blue&label=License)](https://github.com/dell/csi-unity/blob/main/LICENSE)
-[![Docker](https://img.shields.io/docker/pulls/dellemc/csi-unity.svg?logo=docker&style=flat-square&label=Pulls)](https://hub.docker.com/r/dellemc/csi-unity)
+[![Docker](https://img.shields.io/docker/pulls/quay.io/dell/container-storage-modules/csi-unity.svg?logo=docker&style=flat-square&label=Pulls)](https://hub.docker.com/r/quay.io/dell/container-storage-modules/csi-unity)
 [![Last Release](https://img.shields.io/github/v/release/dell/csi-unity?label=Latest&style=flat-square&logo=go)](https://github.com/dell/csi-unity/releases)
 
 **Repository for CSI Driver for Dell Unity XT**
