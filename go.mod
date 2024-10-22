@@ -3,10 +3,10 @@ module github.com/dell/csi-unity
 go 1.22
 
 require (
+	github.com/aaroncirillo-cision/gobrick v1.99.0
 	github.com/container-storage-interface/spec v1.6.0
 	github.com/cucumber/godog v0.10.0
 	github.com/dell/dell-csi-extensions/podmon v1.5.0
-	github.com/dell/gobrick v1.11.3
 	github.com/dell/gocsi v1.11.0
 	github.com/dell/gofsutil v1.16.1
 	github.com/dell/goiscsi v1.9.0
